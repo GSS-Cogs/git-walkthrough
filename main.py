@@ -1,2 +1,2 @@
-print('Ciao mondo')
+print('Salut monde')
  
