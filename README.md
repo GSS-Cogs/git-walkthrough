@@ -20,7 +20,9 @@ You will resolve a merge conflict created when merging an existing branch to mai
 *Many of the commands are issued from the Command Pallet, open it using the keystroke `⌘ + shift + P`.*
 
 ## Method: The Merge
-1. Clone the github repo `git@github.com:GSS-Cogs/git-walkthrough.git` using Visual Studio Code
+0. Fork the github repo using the website. From (httpshttps://github.com/GSS-Cogs/git-walkthrough), click on 'Fork' in the upper right corner. You'll save it to your local account, and use the url you genernated below.
+![Forking a repo](images/git-walkthrough_step0.gif)
+1. Clone the github repo `git@github.com:[username]/git-walkthrough.git` using Visual Studio Code
     - Command Pallet: `git: clone`, paste/type `git@github.com:GSS-Cogs/git-walkthrough.git` 
     ![GIF of process in step 1](images/git-walkthrough_step1.gif)
     - You can explore the repo, and its current branches at (https://github.com/GSS-Cogs/git-walkthrough)
