@@ -51,7 +51,7 @@ Right now there my local `main`, `origin\main`, and `origin\HEAD` are all on the
 ![Condragulations](images/condragulations.gif)
 
 ## Method: The Conflict Creation
-You are not done yet. Time to fuck it up all over again. There are no screenshots/GIFs here because the commands are now familiar.
+You are not done yet. Time to screw it up all over again. There are no screenshots/GIFs here because the commands are now familiar.
 
 9. Create a new branch using the name of the language you will use, I will use french. Chose another language. Push the branch to origin. (You can't pull a branch that doesn't exist yet.)
     - Command Pallet: `Git: Create branch from` name the branch `french`, have it based off `main`.
